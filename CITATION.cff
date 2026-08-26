@@ -1,0 +1,18 @@
+abstract: <p>Initial release</p>
+authors:
+- family-names: Lisa Prigolovkin
+- affiliation: "Forschungszentrum J\xFClich GmbH"
+  family-names: Michael Osthege
+cff-version: 1.2.0
+date-released: '2026-08-26'
+doi: 10.5281/zenodo.22110812
+identifiers:
+- type: swh
+  value: swh:1:dir:a923c59151521a0982d8fd27026bb1f2f3411948;origin=https://doi.org/10.5281/zenodo.22110811;visit=swh:1:snp:86a698aa85c5f3d5f1663d76c782db1349bd91b6;anchor=swh:1:rel:4d312d41451c5a07c6058dc557a2ae8bb7d4b224;path=JuBiotech-Supplement-to-Prigolovkin-et-al.-2026-e0272ae
+license:
+- gpl-3.0-only
+message: If you use this data, please cite it using the metadata from this file.
+repository-code: https://github.com/JuBiotech/Supplement-to-Prigolovkin-et-al.-2026/tree/2026-08-26
+title: 'JuBiotech/Supplement-to-Prigolovkin-et-al.-2026: 2026-08-26'
+type: software
+version: '2026-08-26'
